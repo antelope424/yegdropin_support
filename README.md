@@ -13,8 +13,8 @@ If you require direct assistance with the app, please reach out via email:
 
 We use GitHub Issues to track bugs and feature requests. 
 
-- **Found a bug?** Please [open a Bug Report](../../issues/new?template=bug_report.md) to let us know. Provide as much detail as possible, including your device model and OS version.
-- **Have an idea?** We'd love to hear it! [Open a Feature Request](../../issues/new?template=feature_request.md) to suggest new additions to the app.
+- **Found a bug?** Please [open a Bug Report](https://github.com/antelope424/yegdropin_support/issues/new?template=bug_report.md) to let us know. Provide as much detail as possible, including your device model and OS version.
+- **Have an idea?** We'd love to hear it! [Open a Feature Request](https://github.com/antelope424/yegdropin_support/issues/new?template=feature_request.md) to suggest new additions to the app.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -25,7 +25,7 @@ YEG Drop-in aggregates data from the City of Edmonton's recreation platforms, bu
 Ensure that you have granted YEG Drop-in location permissions in your device's privacy settings. The app requires your current location to calculate distances to nearby facilities.
 
 ### How do the reminders work?
-When you click "Remind Me" on a session, the app schedules a local push notification on your device. Please note that if a session is suddenly cancelled *after* you set the reminder, the app may not notify you of the cancellation unless you open the app to refresh the live schedule.
+When you click "Remind Me" on a session, the app schedules a local push notification on your device. Please note that schedules are subject to change by the facility, and the app will not notify you of sudden cancellations.
 
 ---
 
